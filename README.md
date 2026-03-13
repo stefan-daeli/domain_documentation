@@ -1,2 +1,2 @@
 # domain_documentation
-Repositori ini berisi panduan tentang cara membuat domain dan subdomain. Termasuk di dalamnya adalah dokumentasi mengenai konfigurasi domain baru.
+This repository contains a guide on how to create domains and subdomains. It includes documentation on configuring new domains.
